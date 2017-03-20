@@ -1,2 +1,2 @@
-# curl
+# curl.sh
 curl.sh
