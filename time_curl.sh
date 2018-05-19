@@ -3,10 +3,10 @@
 
 ##CONFIG
 url=('http://google.be' 'http://telenet.be' 'http://sporza.be')
-inputfile='@curl-format.txt'
+inputfile='~/@curl-format.txt'
 file=${input:-$file}
 run=1
-proxy='-x http://192.168.250.254:3128'
+proxy='-x http://192.168.250.1:3128'
 
 	printf "[ 1 ] testing with no proxy \n"
 	printf "[ 2 ] testing with proxy \n"
