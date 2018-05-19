@@ -12,4 +12,4 @@ If you want to use the proxy, please change in line proxy='-x http://192.168.250
 
 To finish the test just press ctrl + c
 
-If you have questions, please feel free to contact me at: oswin@openmailbox.org
+If you have questions, please feel free to contact me at: oswin@oswincorp.pw
